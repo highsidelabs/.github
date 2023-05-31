@@ -7,6 +7,7 @@
 Our open-source packages include:
 
 * [`jlevers/selling-partner-api`](https://github.com/jlevers/selling-partner-api), the leading PHP SDK for Amazon's [Selling Partner API](https://developer-docs.amazon.com/sp-api/).
+* [`highsidelabs/walmart-api`](https://github.com/highsidelabs/walmart-api-php), the only up-to-date and complete PHP SDK for Walmart's Marketplace, Drop Ship Vendor, Content Provider, and Warehouse Supplier APIs.
 * [`highsidelabs/amazon-business-api`](https://github.com/highsidelabs/amazon-business-api), the only publicly available PHP wrapper for Amazon's [Business API](https://developer-docs.amazon.com/amazon-business/).
 * [`highsidelabs/laravel-spapi`](https://github.com/highsidelabs/laravel-spapi), a wrapper around `jlevers/selling-partner-api` that makes it trival to use the Selling Partner API in Laravel applications.
 
